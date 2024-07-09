@@ -63,8 +63,12 @@ namespace DBOperationsWithEFCoreApp.Controllers
                                                                                                                     //if data is not present => First -> will throw exception, FirstOrDefault -> will return null
 
             //var result = await appDbContext.Currencies.Where(x=>x.CurrencyType == currtype).SingleOrDefaultAsync();  //linq
-            //SingleOrDefaultAsync -> only one entry should be present, else exception,
+            //SingleOrDefaultAsync -> only one entry should be present, multiple entry- exception, not present - no error
             //SingleAsync -> one only must be present else exception
+
+            //for First or FirstOrDefault use below for BETTER PERFORMANCE as it will return as soon as first entry is fetched
+            //var result = await appDbContext.Currencies.FirstOrDefaultAsync(x => x.CurrencyType == currtype);  //linq
+            //above we can also use for pk, as only 1 entry possible
             return Ok(result);
         }
 
