@@ -1,12 +1,164 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240709072001_addedVals.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:20:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240709065850_init.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:58:50.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240709065713_init.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:57:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Currency.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Currency.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Currency.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Currency.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABEwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:52:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA6wAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:54:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookPrice.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:54:12.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:50:35.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\Data\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAywA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:50:34.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
