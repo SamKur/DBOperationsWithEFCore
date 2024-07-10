@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\dboperationswithefcoreapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|d:\\coding\\visualstudio_cs\\csharp\\ef_core\\src\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8AEA2EB-189E-4815-B5A2-5EA36661803D}|DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,8 +61,17 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBOperationsWithEFCoreApp",
+              "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "RelativeToolTip": "DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T14:34:05.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,14 +81,14 @@
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
               "ToolTip": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
               "RelativeToolTip": "DBOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwEcAAAAeAAAA",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAYwLEAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T09:00:09.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20240709072001_addedVals.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709072001_addedVals.cs",
@@ -87,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20240709065850_init.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709065850_init.cs",
@@ -99,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20240709065713_init.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Migrations\\20240709065713_init.cs",
@@ -111,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Currency.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Currency.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Currency.cs",
@@ -123,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Language.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Language.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Language.cs",
@@ -135,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookPrice.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\BookPrice.cs",
@@ -147,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\AppDbContext.cs",
@@ -159,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Coding\\VisualStudio_CS\\csharp\\EF_Core\\src\\DBOperationsWithEFCore\\DBOperationsWithEFCoreApp\\DBOperationsWithEFCoreApp\\Data\\Book.cs",
               "RelativeDocumentMoniker": "DBOperationsWithEFCoreApp\\Data\\Book.cs",

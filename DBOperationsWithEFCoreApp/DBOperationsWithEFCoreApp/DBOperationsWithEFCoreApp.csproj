@@ -2,7 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+	  <Nullable>enable</Nullable>
+	  <!--<Nullable>disable</Nullable>--> 
+	  <!--above is for null value handle, should be `string? str_col_name` for null handling in 
+	  controller method parameter-->
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
